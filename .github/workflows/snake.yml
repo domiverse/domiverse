@@ -3,12 +3,13 @@ name: Generate Snake Animation
 
 # Điều kiện để Action chạy
 on:
-  # Tự động chạy mỗi 12 tiếng
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Cho phép bạn chạy thủ công bất cứ lúc nào từ tab "Actions"
   workflow_dispatch:
+
+# THÊM KHỐI NÀY VÀO ĐỂ CẤP QUYỀN GHI
+permissions:
+  contents: write
 
 # Các công việc cần thực hiện
 jobs:
@@ -30,13 +31,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Bước 3: Đẩy file ảnh đã tạo vào một nhánh mới tên là "output"
+      # Bước 3: Đẩy file ảnh đã tạo vào nhánh "output"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # Tên nhánh sẽ chứa file ảnh
           target_branch: output
-          # Thư mục chứa file ảnh đã tạo ở bước 2
           build_dir: dist
         env:
-          # Cung cấp quyền để Action có thể push code lên repo
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
