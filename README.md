@@ -22,7 +22,7 @@
 <h2 align="center">⭐ Dự án nổi bật: Domiverse E-commerce ⭐</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/domiverse/ecommerce-app/main/screenshots/product-list.png" alt="Domiverse E-commerce Demo" width="80%">
+  <img src="https://github.com/user-attachments/assets/afd7409b-9d1b-4b50-934a-222f080f4b82" alt="Domiverse E-commerce Demo" width="80%">
 </p>
 
 <table align="center" width="80%">
