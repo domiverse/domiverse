@@ -1,0 +1,42 @@
+# Tên của GitHub Action
+name: Generate Snake Animation
+
+# Điều kiện để Action chạy
+on:
+  # Tự động chạy mỗi 12 tiếng
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Cho phép bạn chạy thủ công bất cứ lúc nào từ tab "Actions"
+  workflow_dispatch:
+
+# Các công việc cần thực hiện
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Bước 1: Lấy code của repo về
+      - uses: actions/checkout@v3
+
+      # Bước 2: Tạo ảnh con rắn từ lịch sử đóng góp
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          # Lấy username GitHub của bạn
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Chỉ định file output
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Bước 3: Đẩy file ảnh đã tạo vào một nhánh mới tên là "output"
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # Tên nhánh sẽ chứa file ảnh
+          target_branch: output
+          # Thư mục chứa file ảnh đã tạo ở bước 2
+          build_dir: dist
+        env:
+          # Cung cấp quyền để Action có thể push code lên repo
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
