@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/domiverse">
-    <img src="https://media.giphy.com/media/SWu16c6dcd1gj1S6b6/giphy.gif" alt="Logo" width="200"/>
+  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" alt="Matrix" width="200"/>
   </a>
   <br/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Ch%C3%A0o+m%E1%BB%ABng!+T%C3%B4i+l%C3%A0+H%E1%BB%93+Trung+Th%C3%A1i!+%F0%9F%91%8B;T%C3%B4i+l%C3%A0+m%E1%BB%99t+Full-Stack+Developer." alt="Typing SVG" /></a>
