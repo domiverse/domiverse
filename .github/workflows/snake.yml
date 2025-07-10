@@ -29,7 +29,7 @@ jobs:
           # Chỉ định file output
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=00b4d8&color_dots=#e0f7fa,#b2ebf2,#80deea,#4dd0e1,#26c6da
 
       # Bước 3: Đẩy file ảnh đã tạo vào nhánh "output"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
