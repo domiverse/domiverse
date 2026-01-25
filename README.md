@@ -100,46 +100,41 @@
 <h2 align="center">🛠️ Research Toolkit & Analytics</h2>
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse; background-color: transparent;">
-    <tr>
-      <td width="50%" valign="top" style="border: none; padding-right: 20px;">
-        <h3 align="center">🔬 Core Tech Stack</h3>
-        <div align="center">
-          <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab&theme=dark" alt="Languages" /><br/>
-          <br/>
-          <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&theme=dark" alt="AI" /><br/>
-          <br/>
-          <img src="https://skillicons.dev/icons?i=git,docker,latex,md,notion&theme=dark" alt="Tools" />
-        </div>
-        
-        <br/>
-        
-        <h3 align="center">🗣️ Languages</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Korean-TOPIK_Target_5-003478?style=for-the-badge&logo=southkorea&logoColor=white"/>
-          <br/>
-          <img src="https://img.shields.io/badge/English-IELTS_Target_6.5-B22234?style=for-the-badge&logo=liberty-mutual&logoColor=white"/>
-        </p>
-      </td>
+  <h3 align="center">🔬 Core Tech Stack</h3>
+  
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab&theme=dark" alt="Languages" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&theme=dark" alt="AI" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git,docker,latex,md,notion&theme=dark" alt="Tools" height="40" />
 
-      <td width="50%" valign="top" style="border: none; padding-left: 20px;">
-        <h3 align="center">📊 GitHub Activity</h3>
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&count_private=true&hide=contribs" alt="Stats" width="100%" />
-          <br/><br/>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=domiverse&theme=react&bg_color=0d1117&hide_border=true" alt="Streak" width="100%" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+  <br/><br/>
 
-<h3 align="center">🧩 Consistency Graph</h3>
-<div align="center">
-  <img src="https://github.com/domiverse/domiverse/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Korean-TOPIK_Target_5-003478?style=for-the-badge&logo=southkorea&logoColor=white"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/English-IELTS_Target_6.5-B22234?style=for-the-badge&logo=liberty-mutual&logoColor=white"/>
+  </p>
 </div>
 
 <br/>
+
+<div align="center">
+  <h3>📊 GitHub Activity</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&bg_color=transparent" alt="Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=domiverse&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Streak" />
+</div>
+
+<br/>
+
+<h3 align="center">🧩 Consistency Graph</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/domiverse/domiverse/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=domiverse&style=flat-square&color=blueviolet&label=Profile+Views" alt="views"/>
 </div>
