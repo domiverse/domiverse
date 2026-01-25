@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/Focus-Supply%20Chain%20%7C%20Data-orange?style=flat-square" alt="Focus" />
 </p>
 
-<br/>
-
 <div align="center">
   Example-driven <b>Software Engineer</b> transitioning into <b>Management of Technology (MOT)</b>. <br/>
   <i>My mission is to leverage robust IT architectures to solve complex problems in Supply Chain & Smart Manufacturing.</i>
@@ -29,11 +27,11 @@
 
 <h2 align="center">📚 Academic Focus & Certifications (2026-2028)</h2>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%" style="border: none;">
   <tr>
     <td width="33%" align="center" valign="top">
       <h3>🏭 Systems Eng.</h3>
-      <img src="https://cdn-icons-png.flaticon.com/512/2881/2881142.png" width="50px"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2881/2881142.png" width="40px"/>
       <br/><br/>
       <ul align="left">
         <li><b>KAIST:</b> Supply Chain Mgmt <br/><i>(In Progress)</i></li>
@@ -43,7 +41,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <h3>📊 Data & AI</h3>
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50px"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="40px"/>
       <br/><br/>
       <ul align="left">
         <li><b>Google:</b> Data Analytics Pro</li>
@@ -53,7 +51,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <h3>💼 Management</h3>
-      <img src="https://cdn-icons-png.flaticon.com/512/1570/1570993.png" width="50px"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1570/1570993.png" width="40px"/>
       <br/><br/>
       <ul align="left">
         <li><b>Google:</b> Project Mgmt (PMP)</li>
@@ -75,7 +73,7 @@
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td width="55%" valign="top">
-      <img src="https://github.com/user-attachments/assets/afd7409b-9d1b-4b50-934a-222f080f4b82" alt="Domiverse Demo" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"/>
+      <img src="https://github.com/user-attachments/assets/afd7409b-9d1b-4b50-934a-222f080f4b82" alt="Domiverse Demo" style="border-radius: 10px;"/>
     </td>
     <td width="45%" valign="top">
       <h3>🚀 System Highlights</h3>
@@ -100,35 +98,28 @@
 <h2 align="center">🛠️ Research Toolkit & Analytics</h2>
 
 <div align="center">
-  <h3 align="center">🔬 Core Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab&theme=dark" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&theme=dark" height="40" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git,docker,latex,md,notion&theme=dark" height="40" />
   
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,matlab&theme=dark" alt="Languages" height="40" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,scikitlearn&theme=dark" alt="AI" height="40" />
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=git,docker,latex,md,notion&theme=dark" alt="Tools" height="40" />
-
   <br/><br/>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Korean-TOPIK_Target_5-003478?style=for-the-badge&logo=southkorea&logoColor=white"/>
-    &nbsp;
-    <img src="https://img.shields.io/badge/English-IELTS_Target_6.5-B22234?style=for-the-badge&logo=liberty-mutual&logoColor=white"/>
-  </p>
+  
+  <img src="https://img.shields.io/badge/Korean-TOPIK_Target_5-003478?style=for-the-badge&logo=southkorea&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/English-IELTS_Target_6.5-B22234?style=for-the-badge&logo=liberty-mutual&logoColor=white"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>📊 GitHub Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&bg_color=transparent" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=domiverse&theme=tokyonight&hide_border=true&bg_color=transparent" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&bg_color=161B22" alt="Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=domiverse&theme=tokyonight&hide_border=true&bg_color=161B22" alt="Streak" height="180"/>
 </div>
 
 <br/>
 
-<h3 align="center">🧩 Consistency Graph</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/domiverse/domiverse/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 </div>
