@@ -1,139 +1,132 @@
 <div align="center">
-  <a href="https://github.com/domiverse">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Plexus" width="200"/>  </a>
-  <br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Hi!+I'm+Ho+Trung+Thai;Aspiring+Researcher+in+MIS+%26+Smart+Factory;Bridging+Software+Eng.+%26+Management" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0096FF&height=220&section=header&text=Ho%20Trung%20Thai&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Aspiring%20MOT%20Researcher&descAlignY=55&descAlign=50" alt="Ho Trung Thai Header" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=System+Optimization+%26+Smart+Factory;Bridging+Tech+%26+Management;Targeting+Graduate+Studies+in+KR+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
-  Welcome to my research & development portfolio! <br>
-  I hold a <b>B.S. in Software Engineering</b> and am currently transitioning into <b>Management of Technology (MOT)</b>. <br>
-  My goal is to leverage my IT background to solve complex problems in <b>Supply Chain, Data Analytics, and System Optimization</b> in South Korea.
+  <a href="mailto:trunghai230700@gmail.com">
+    <img src="https://img.shields.io/badge/Email-trunghai230700%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Supply%20Chain%20%7C%20Data-orange?style=flat-square" alt="Focus" />
 </p>
 
-<p align="center">
-  <a href="mailto:trunghai230700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+<br/>
 
----
+<div align="center">
+  Example-driven <b>Software Engineer</b> transitioning into <b>Management of Technology (MOT)</b>. <br/>
+  <i>My mission is to leverage robust IT architectures to solve complex problems in Supply Chain & Smart Manufacturing.</i>
+</div>
 
-<h2 align="center">📚 Continuous Learning & Certifications (2026-2028)</h2>
-<p align="center">I am actively building a "Managerial & Analytical" skillset to complement my coding background.</p>
+<hr/>
 
-<table align="center" width="90%">
+<h2 align="center">📚 Academic Focus & Certifications (2026-2028)</h2>
+
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <th width="33%">🏭 Industrial & Systems Eng.</th>
-    <th width="33%">📊 Data Analytics & AI</th>
-    <th width="33%">💼 Management Strategy</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <ul>
-        <li><b>KAIST:</b> Supply Chain Management Specialization <i>(In Progress)</i></li>
-        <li><b>Six Sigma:</b> Yellow & Green Belt</li>
-        <li><b>Digital Transformation Strategy</b> (BCG)</li>
+    <td width="33%" align="center" valign="top">
+      <h3>🏭 Systems Eng.</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/2881/2881142.png" width="50px"/>
+      <br/><br/>
+      <ul align="left">
+        <li><b>KAIST:</b> Supply Chain Mgmt <br/><i>(In Progress)</i></li>
+        <li><b>Six Sigma:</b> Green Belt</li>
+        <li><b>BCG:</b> Digital Transformation</li>
       </ul>
     </td>
-    <td valign="top">
-      <ul>
-        <li><b>Google:</b> Data Analytics Professional</li>
-        <li><b>Univ. of Michigan:</b> Statistics with Python</li>
+    <td width="33%" align="center" valign="top">
+      <h3>📊 Data & AI</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50px"/>
+      <br/><br/>
+      <ul align="left">
+        <li><b>Google:</b> Data Analytics Pro</li>
+        <li><b>U.Michigan:</b> Stats w/ Python</li>
         <li><b>Wharton:</b> AI for Business</li>
       </ul>
     </td>
-    <td valign="top">
-      <ul>
-        <li><b>Google:</b> Project Management Professional</li>
-        <li><b>Macquarie Univ:</b> Excel Skills for Business</li>
+    <td width="33%" align="center" valign="top">
+      <h3>💼 Management</h3>
+      <img src="https://cdn-icons-png.flaticon.com/512/1570/1570993.png" width="50px"/>
+      <br/><br/>
+      <ul align="left">
+        <li><b>Google:</b> Project Mgmt (PMP)</li>
+        <li><b>Macquarie:</b> Excel Business</li>
+        <li><b>Agile/Scrum:</b> Methodologies</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-<h2 align="center">💻 Engineering Background: System Architecture</h2>
-<p align="center">Before transitioning to research, I built scalable software systems to understand the technical lifecycle.</p>
+<h2 align="center">💻 Engineering Foundation: System Architecture</h2>
+<p align="center"><i>"Understanding the code to manage the product."</i></p>
 
-<h3 align="center">⭐ Featured Project: Domiverse E-commerce System ⭐</h3>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/afd7409b-9d1b-4b50-934a-222f080f4b82" alt="Domiverse E-commerce Demo" width="60%">
-</p>
-
-<table align="center" width="80%">
+<details open>
+<summary><b>⭐ View Featured Project: Domiverse E-commerce System</b></summary>
+<br/>
+<table align="center" width="100%" style="border: none;">
   <tr>
-    <td valign="top">
-      <h3>✨ System Highlights (Logic & Flow)</h3>
-      <ul>
-        <li>Designed a <b>complex Database Schema</b> for order processing.</li>
-        <li>Implemented <b>Business Logic</b> for cart management & checkout flow.</li>
-        <li>Integrated 3rd-party APIs (Vietnam Administrative Units).</li>
-        <li><b>Role:</b> Full-Stack Engineer (Focus on System Design).</li>
-      </ul>
+    <td width="55%" valign="top">
+      <img src="https://github.com/user-attachments/assets/afd7409b-9d1b-4b50-934a-222f080f4b82" alt="Domiverse Demo" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"/>
     </td>
-    <td valign="top">
-      <h3>🛠️ Tech Stack Used</h3>
+    <td width="45%" valign="top">
+      <h3>🚀 System Highlights</h3>
       <ul>
-        <li><strong>Core:</strong> Java, Spring Boot, MySQL</li>
-        <li><strong>Interface:</strong> Angular, TypeScript</li>
-        <li><strong>Architecture:</strong> RESTful API, MVC Pattern</li>
+        <li><b>Complex Schema:</b> Designed relational DB for multi-level order processing.</li>
+        <li><b>Business Logic:</b> Custom cart flow & Vietnam Admin Unit API integration.</li>
+        <li><b>Architecture:</b> MVC Pattern, RESTful API.</li>
       </ul>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,angular,ts,docker&theme=light&perline=6" />
+      </p>
+      <a href="https://github.com/domiverse/ecommerce-app">
+        <img src="https://img.shields.io/badge/View_Source_Code-black?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+</details>
+
+<hr/>
+
+<h2 align="center">🚀 Research Toolkit & Analytics</h2>
+
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 Research Stack (Current)</h3>
+      <p><i>Focusing on Data Science & Simulation</i></p>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,r,tableau,excel,latex,md,idea&perline=4" />
+      <br/><br/>
+      <h3>🗣️ Languages</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Korean-TOPIK_Target_5-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/English-IELTS_6.5-red?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Vietnamese-Native-green?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 GitHub Performance</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" alt="Stats" width="100%" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/domiverse/ecommerce-app">
-    <img src="https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
-  </a>
-</p>
+<h3 align="center">🧩 Contribution Consistency</h3>
+<div align="center">
+  <img src="https://github.com/domiverse/domiverse/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+</div>
 
----
+<br/>
 
-<h2 align="center">🚀 Research Toolkit & Skills 📊</h2>
-
-<table align="center" width="90%">
-<tr>
-<td valign="top" width="50%">
-  
-### 🔬 Current Focus (Research Tools)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,r,mysql,tableau,excel,latex,md&perline=4" />
-  </a>
-</p>
-  
-### 💻 Legacy Skills (Software Eng)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,git,postman,docker&perline=7" />
-  </a>
-</p>
-  
-</td>
-<td valign="top" width="50%">
-
-### 📈 Language Proficiency
-<ul style="list-style-type: none;">
-  <li>🇰🇷 <b>Korean:</b> TOPIK 5 (Target) - <i>Advanced Academic Level</i></li>
-  <li>🇺🇸 <b>English:</b> IELTS 6.5 (Target) - <i>Research Communication</i></li>
-  <li>🇻🇳 <b>Vietnamese:</b> Native</li>
-</ul>
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=vision-friendly-dark&rank_icon=github&count_private=true&hide=contribs" alt="domiverse's GitHub stats" />
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🐍 Consistency Graph </h2>
-<p align="center">
-  <img src="https://github.com/domiverse/domiverse/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=domiverse&style=flat-square&color=blue&label=Profile+Views" alt="views"/>
+</div>
