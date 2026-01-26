@@ -118,7 +118,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&bg_color=161B22" alt="Stats" height="180"/>
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=domiverse&theme=tokyonight&hide_border=true&bg_color=161B22" alt="Streak" height="180"/>
+    <img src="https://raw.githubusercontent.com/domiverse/domiverse/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
   </p>
 </div>
 
