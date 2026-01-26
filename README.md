@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ho%20Trung%20Thai&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Researcher%20%7C%20MIS%20%26%20Smart%20Factory&descAlignY=58&descAlign=50" alt="Ho Trung Thai Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=280&section=header&text=Ho%20Trung%20Thai&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Researcher%20%7C%20MIS%20%26%20Smart%20Factory&descAlignY=60&descAlign=50" alt="Ho Trung Thai Header" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Bridging+Software+Engineering+%26+Management;Optimizing+Supply+Chain+with+Data;Targeting+Graduate+Studies+in+KR+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Bridging+Software+Engineering+%26+Management;Optimizing+Supply+Chain+with+Data;Targeting+Graduate+Studies+in+KR+%F0%9F%87%B0%F0%9F%87%B7" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="mailto:trunghai230700@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-trunghai230700%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/hotrungthai-mis">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Supply_Chain_%7C_Data-FF9900?style=flat" alt="Focus" />
 </p>
@@ -27,12 +27,12 @@
 
 ---
 
-<h2 align="center">📚 continuous Learning path (2026-2028)</h2>
+<h2 align="center">📚 Continuous Learning Path (2026-2028)</h2>
 
 <table align="center" width="95%" style="border: none;">
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/3094/3094851.png" width="50px"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/3094/3094851.png" width="45px"/>
       <h3>🏭 Industrial Eng.</h3>
       <ul align="left">
         <li><b>KAIST:</b> Supply Chain Mgmt <br/><i>(In Progress)</i></li>
@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2704/2704029.png" width="50px"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/2704/2704029.png" width="45px"/>
       <h3>📊 Data Analytics</h3>
       <ul align="left">
         <li><b>Google:</b> Data Analytics Pro</li>
@@ -50,7 +50,7 @@
       </ul>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/1006/1006517.png" width="50px"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1006/1006517.png" width="45px"/>
       <h3>💼 Management</h3>
       <ul align="left">
         <li><b>Google:</b> Project Mgmt (PMP)</li>
@@ -97,25 +97,21 @@
 <h2 align="center">🛠️ Research Toolkit</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,matlab,tableau,excel&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=python,r,matlab,tableau,excel&theme=dark" height="45" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=latex,md,git,notion,vscode&theme=dark" height="50" />
+  <img src="https://skillicons.dev/icons?i=latex,md,git,notion,vscode&theme=dark" height="45" />
   
   <br/><br/>
   
-  <img src="https://img.shields.io/badge/Korean-TOPIK_5_(Target)-003478?style=for-the-badge&logo=southkorea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Korean-TOPIK_5_(Target)-003478?style=flat&logo=southkorea&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/English-IELTS_6.5_(Target)-B22234?style=for-the-badge&logo=liberty-mutual&logoColor=white"/>
+  <img src="https://img.shields.io/badge/English-IELTS_6.5_(Target)-B22234?style=flat&logo=liberty-mutual&logoColor=white"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs&bg_color=0d1117" alt="Stats" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/domiverse/domiverse/output/github-contribution-grid-snake-dark.svg" alt="snake" width="100%"/>
 </div>
 
 <br/>
