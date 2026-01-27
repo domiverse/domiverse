@@ -1,63 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,50:4e4376,100:000000&height=250&section=header&text=Ho%20Trung%20Thai&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=From%20Software%20Engineer%20to%20Computer%20Vision%20Researcher&descAlignY=62&descAlign=50" alt="Ho Trung Thai Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=280&section=header&text=Ho%20Trung%20Thai&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Eyes%20of%20AI%20%7C%20Medical%20Vision%20Researcher&descAlignY=58&descAlign=50" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Targeting+PhD+in+Computer+Vision+at+Yonsei+%F0%9F%87%B0%F0%9F%87%B7;Focus:+Medical+Imaging+%26+Deep+Learning+%F0%9F%A7%AC;Building+AI+Systems+that+See+%26+Diagnose+%F0%9F%91%81%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=33FFCC&center=true&vCenter=true&width=600&lines=Targeting+PhD+in+Computer+Vision+at+Yonsei+%F0%9F%87%B0%F0%9F%87%B7;Detecting+Anomalies+in+Medical+Images+%F0%9F%A9%BA;From+Software+Engineer+to+AI+Scientist+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="mailto:trunghai230700@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/hotrungthai-mis">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Computer_Vision_%7C_Medical_AI-00C853?style=flat-square" alt="Focus" />
+  <a href="https://github.com/domiverse">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
+<br/>
+
 <div align="center">
-  <br/>
-  🧬 <b>Mission:</b> Transforming raw pixels into medical insights. <br/>
-  <i>"Applying strict Engineering principles to the probabilistic world of AI."</i>
-  <br/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Research%20is%20to%20see%20what%20everybody%20else%20has%20seen,%20and%20to%20think%20what%20nobody%20else%20has%20thought.&author=Albert%20Szent-Gyorgyi" alt="Quote" />
 </div>
 
 ---
 
-<h2 align="center">🔬 Research & Learning Roadmap (2026-2028)</h2>
+<h2 align="center">🧬 Research & Learning Roadmap (2026-2028)</h2>
 
 <table align="center" width="95%" style="border: none;">
   <tr>
     <td width="33%" align="center" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="50px"/>
-      <h3 style="color: #00FFFF;">📐 Mathematical Foundation</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/V4NSR1NG2p0Lu/giphy.gif" width="50px" style="border-radius: 50%"/>
+        <h3 style="color: #00FFFF;">📐 Math Base</h3>
+      </div>
       <ul align="left">
-        <li><b>Linear Algebra:</b> Matrix Operations 🔢</li>
-        <li><b>Calculus:</b> Gradients & Optimization 📉</li>
-        <li><b>Probability:</b> Bayesian Inference 🎲</li>
+        <li><b>Linear Algebra:</b> Matrix 🔢</li>
+        <li><b>Calculus:</b> Gradients 📉</li>
+        <li><b>Stats:</b> Bayesian 🎲</li>
       </ul>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2083/2083213.png" width="50px"/>
-      <h3 style="color: #7B68EE;">🧠 Deep Learning Core</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50px" style="border-radius: 50%"/>
+        <h3 style="color: #7B68EE;">🧠 Deep Vision</h3>
+      </div>
       <ul align="left">
-        <li><b>Stanford CS231n:</b> CNN Architectures 🏗️</li>
-        <li><b>Models:</b> ResNet, YOLO, U-Net 🕸️</li>
-        <li><b>Frameworks:</b> PyTorch Ecosystem 🔥</li>
+        <li><b>CNNs:</b> ResNet, YOLO 🕸️</li>
+        <li><b>Transformers:</b> ViT 🤖</li>
+        <li><b>Framework:</b> PyTorch 🔥</li>
       </ul>
     </td>
     <td width="33%" align="center" valign="top">
-      <img src="https://cdn-icons-png.flaticon.com/512/2382/2382461.png" width="50px"/>
-      <h3 style="color: #FF69B4;">🏥 Medical Application</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/QTPC0Qo9uO7m1tK85d/giphy.gif" width="50px" style="border-radius: 50%"/>
+        <h3 style="color: #FF69B4;">🏥 MedTech AI</h3>
+      </div>
       <ul align="left">
-        <li><b>Medical Imaging:</b> DICOM, NIfTI Processing 🩻</li>
-        <li><b>Segmentation:</b> Tumor Detection 🎯</li>
-        <li><b>Ethics:</b> AI in Healthcare 🤝</li>
+        <li><b>Imaging:</b> DICOM, MRI 🩻</li>
+        <li><b>Segm.:</b> U-Net, V-Net 🎯</li>
+        <li><b>Ethics:</b> AI Safety 🤝</li>
       </ul>
     </td>
   </tr>
@@ -65,50 +72,69 @@
 
 <br/>
 
-<h2 align="center">🛠️ AI Research Tech Stack</h2>
+<h2 align="center">🧪 The Alchemist's Lab (Tech Stack)</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn&theme=dark" height="45" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=anaconda,jupyter,docker,git,latex,linux&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,scikitlearn,anaconda,jupyter,docker,git,linux,latex,notion&theme=dark&perline=6" />
 </div>
 
 <br/>
 
-<h2 align="center">💻 Engineering Background (The "System" Mindset)</h2>
+<h2 align="center">💻 Engineering Foundation (System Architecture)</h2>
 
 <table align="center" width="100%" style="border: none;">
   <tr>
     <td width="55%" valign="middle">
-      <img src="https://github.com/user-attachments/assets/afd7409b-9d1b-4b50-934a-222f080f4b82" alt="Domiverse Demo" style="border-radius: 15px; border: 1px solid #333;"/>
+      <img src="https://github.com/user-attachments/assets/afd7409b-9d1b-4b50-934a-222f080f4b82" alt="Domiverse Demo" style="border-radius: 10px; border: 2px solid #7B68EE; box-shadow: 0 0 10px #7B68EE;"/>
     </td>
     <td width="45%" valign="top">
       <h3>🚀 Domiverse System</h3>
-      <p><i>Before AI, I mastered System Architecture.</i></p>
+      <p><i>Before AI, I mastered the code.</i></p>
+      <br/>
+      <img src="https://img.shields.io/badge/Role-Fullstack_Engineer-blueviolet?style=flat-square" />
+      <br/><br/>
       <ul>
-        <li><b>Why this matters:</b> Strong coding skills allow me to deploy AI models into real-world production systems, not just keep them in Jupyter Notebooks.</li>
-        <li><b>Tech:</b> Java Spring Boot, MySQL, MVC Pattern.</li>
+        <li><b>Architecture:</b> Scalable MVC Pattern using Java Spring Boot.</li>
+        <li><b>Database:</b> Complex Relational Schema Design (MySQL).</li>
+        <li><b>Why for AI?:</b> Ensuring models can be deployed in real production environments.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Java-Spring-ED8B00?style=flat" />
-        <img src="https://img.shields.io/badge/Architecture-MVC-blue?style=flat" />
-      </p>
+      <a href="https://github.com/domiverse/ecommerce-app">
+        <img src="https://img.shields.io/badge/View_Source_Code-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
+      </a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h2 align="center">🇰🇷 The Road to Yonsei PhD</h2>
+<h2 align="center">📊 GitHub Analytics Dashboard</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/TOPIK_Level-5_Target-blue?style=for-the-badge&logo=southkorea" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Research-Computer_Vision-green?style=for-the-badge&logo=nvidia" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Dream_Lab-Yonsei_Medical_AI-white?style=for-the-badge&logo=yonsei-university&logoColor=blue" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domiverse&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=domiverse&theme=radical&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/domiverse/domiverse/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
 <hr/>
-<p align="center"><i>"Building the eyes for the machines that will heal the future."</i></p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Loading_Master_Degree...-00FFFF?style=for-the-badge" />
+  <br/>
+  <p><i>"Building the eyes for the machines that will heal the future."</i></p>
+</div>
