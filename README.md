@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Gmail-Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/hotrungthai-mis">
+  <a href="https://www.linkedin.com/in/domiverse">
     <img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
