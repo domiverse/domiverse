@@ -31,7 +31,7 @@
 
 <h2 align="center">🧬 Research & Learning Roadmap (2026-2028)</h2>
 
-<table align="center" width="95%" style="border: none;">
+<table align="center" width="200%" style="border: none;">
   <tr>
     <td width="33%" align="center" valign="top">
       <div align="center">
