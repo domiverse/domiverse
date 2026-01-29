@@ -24,6 +24,17 @@
 
 <br/>
 
+Xin lỗi bạn vì style mới không ưng ý nhé. Mình đã check lại ảnh bạn gửi (image_c50e85.png), đúng là cái Quote kia nhìn hơi "lệch tông" và phần Roadmap bị đóng khung nhìn rất bí bách.
+
+Mình sẽ fix lại theo đúng ý bạn:
+
+Quote: Quay về bản cũ (Theme radical màu tím xanh gradient) nhìn cho mướt mắt và hợp với header.
+
+Roadmap: Bỏ hết mấy cái khung viền (border) bao quanh đi để nó thoáng hơn. Mình sẽ căn giữa tiêu đề (cho cân đối) nhưng căn trái nội dung list (để dễ đọc), và ép bảng rộng 100% để không bị túm tụm ở giữa.
+
+Bạn copy đoạn code này thay thế cho đoạn từ Quote đến hết Roadmap nhé:
+
+HTML
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Research%20is%20to%20see%20what%20everybody%20else%20has%20seen,%20and%20to%20think%20what%20nobody%20else%20has%20thought.&author=Albert%20Szent-Gyorgyi" width="100%" alt="Quote" />
 </div>
@@ -32,36 +43,36 @@
 
 <h2 align="center">🧬 Research & Learning Roadmap (2026-2028)</h2>
 
-<table align="center" width="100%" style="border: none; border-collapse: collapse;">
+<table width="100%" style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="33%" valign="top" style="padding: 10px;">
+    <td width="33%" valign="top" style="border: none; padding: 10px;">
       <div align="center">
         <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50px" style="border-radius: 50%;"/>
         <h3 style="color: #00FFFF;">📐 Math Base</h3>
       </div>
-      <ul style="margin-top: 0;">
+      <ul align="left" style="margin-left: 20px;">
         <li><b>Linear Algebra:</b> Matrix 🔢</li>
         <li><b>Calculus:</b> Gradients 📉</li>
         <li><b>Stats:</b> Bayesian 🎲</li>
       </ul>
     </td>
-    <td width="33%" valign="top" style="padding: 10px;">
+    <td width="33%" valign="top" style="border: none; padding: 10px;">
       <div align="center">
         <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50px" style="border-radius: 50%;"/>
         <h3 style="color: #7B68EE;">🧠 Deep Vision</h3>
       </div>
-      <ul style="margin-top: 0;">
+      <ul align="left" style="margin-left: 20px;">
         <li><b>CNNs:</b> ResNet, YOLO 🕸️</li>
         <li><b>Transformers:</b> ViT 🤖</li>
         <li><b>Framework:</b> PyTorch 🔥</li>
       </ul>
     </td>
-    <td width="33%" valign="top" style="padding: 10px;">
+    <td width="33%" valign="top" style="border: none; padding: 10px;">
       <div align="center">
         <img src="https://media.giphy.com/media/26tn33aiU1iGPqEWW/giphy.gif" width="50px" style="border-radius: 50%;"/>
         <h3 style="color: #FF69B4;">🏥 MedTech AI</h3>
       </div>
-      <ul style="margin-top: 0;">
+      <ul align="left" style="margin-left: 20px;">
         <li><b>Imaging:</b> DICOM, MRI 🩻</li>
         <li><b>Segm.:</b> U-Net, V-Net 🎯</li>
         <li><b>Ethics:</b> AI Safety 🤝</li>
