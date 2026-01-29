@@ -23,18 +23,6 @@
 </p>
 
 <br/>
-
-Xin lỗi bạn vì style mới không ưng ý nhé. Mình đã check lại ảnh bạn gửi (image_c50e85.png), đúng là cái Quote kia nhìn hơi "lệch tông" và phần Roadmap bị đóng khung nhìn rất bí bách.
-
-Mình sẽ fix lại theo đúng ý bạn:
-
-Quote: Quay về bản cũ (Theme radical màu tím xanh gradient) nhìn cho mướt mắt và hợp với header.
-
-Roadmap: Bỏ hết mấy cái khung viền (border) bao quanh đi để nó thoáng hơn. Mình sẽ căn giữa tiêu đề (cho cân đối) nhưng căn trái nội dung list (để dễ đọc), và ép bảng rộng 100% để không bị túm tụm ở giữa.
-
-Bạn copy đoạn code này thay thế cho đoạn từ Quote đến hết Roadmap nhé:
-
-HTML
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Research%20is%20to%20see%20what%20everybody%20else%20has%20seen,%20and%20to%20think%20what%20nobody%20else%20has%20thought.&author=Albert%20Szent-Gyorgyi" width="100%" alt="Quote" />
 </div>
