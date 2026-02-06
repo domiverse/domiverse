@@ -108,26 +108,24 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Analytics Dashboard</h2>
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&cache_seconds=1800" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domiverse&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&cache_buster=20240207" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domiverse&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_buster=20240207" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github.com/domiverse/domiverse/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/domiverse/domiverse/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=domiverse&theme=radical&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=domiverse&theme=radical&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D&cache_buster=20240207" alt="GitHub Streak" />
   </a>
 </div>
 
