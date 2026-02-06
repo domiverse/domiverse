@@ -112,8 +112,8 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domiverse&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=domiverse&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&cache_seconds=1800" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domiverse&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&cache_seconds=1800" />
   </a>
 </div>
 
